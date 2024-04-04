@@ -1,6 +1,6 @@
 .hero-section {
     height: 700px;
-    background-image: url('/assets/1\ \(1\).jpg');
+    background-image: url('./assets/swaroski.jpg');
     background-size: cover;
     background-position: center;
     display: flex;
